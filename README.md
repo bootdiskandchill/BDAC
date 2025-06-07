@@ -84,11 +84,11 @@ Join the **BDAC Bootup** — a low-noise email newsletter with annual zine drops
 
 For licensing, collaboration, or physical zine drops:
 
-Mail: [bootdiskandchill@gmail.com](mailto:bootdiskandchill@gmail.com)  
- Web: [bootdiskandchill.com](https://bootdiskandchill.com)  
-   X: [@makemorebeats](https://x.com/makemorebeats)  
-  IG: [@bootdiskandchill](https://instagram.com/bootdiskandchill)  
-  YT: [@bootdiskandchill](https://youtube.com/@bootdiskandchill)
+- **Mail**: [bootdiskandchill@gmail.com](mailto:bootdiskandchill@gmail.com)  
+- **Web**: [bootdiskandchill.com](https://bootdiskandchill.com)  
+- **YouTube**: [@bootdiskandchill](https://youtube.com/@bootdiskandchill)
+- **Instagram**: [@bootdiskandchill](https://instagram.com/bootdiskandchill)  
+- **X**: [@makemorebeats](https://x.com/makemorebeats)  
 
 ---
 
