@@ -4,7 +4,7 @@
 
 ## Overview
 
-If you're using a SCSI2SD, this is your guide to setting up SD cards for the MPC2000. I'll cover a basic setup with a single partition, and an advanced setup with multiple disks that requires flashing the SCSI2SD.
+This guide explains how to configure SD cards for use with SCSI2SD on the MPC2000. The basic setup provides a minimal, single-disk configuration. The advanced setup enables multiple virtual SCSI disks and requires flashing the device using the SCSI2SD utility.
 
 ## Requirements
 
