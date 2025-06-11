@@ -113,7 +113,7 @@ It is essential to flash the SCSI2SD in order to use all 4 virtual disks.
 1. Connect the SCSI2SD to your Mac with the USB data cable and run the SCSI2SD-Util app
    - Click on the terminal running the app to use it
 
-2. Select "Open File" in the File menu and load the BDAC mp2k.xml setup file
+2. Select "Open File" in the File menu and load the BDAC [mp2k.xml](https://github.com/bootdiskandchill/BDAC/blob/main/2025/SCSI2SD/mp2k.xml) setup file
 
 3. Select "Save to device" in the File menu to flash the SCSI2SD
    - The orange LED will flash during programming (about 30 seconds)
